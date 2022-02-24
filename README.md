@@ -1,10 +1,10 @@
-# Empowerme Minikube24
+# Minshewn-oci Minikube24
 
 ## How do I install these formulae?
 
-`brew install empowerme/minikube24/<formula>`
+`brew install minshewn-oci/minikube24/<formula>`
 
-Or `brew tap empowerme/minikube24` and then `brew install <formula>`.
+Or `brew tap minshewn-oci/minikube24` and then `brew install <formula>`.
 
 ## Documentation
 
